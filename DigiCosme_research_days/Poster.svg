@@ -16482,11 +16482,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1866066"
-     inkscape:cx="1935.0857"
-     inkscape:cy="1620.6361"
+     inkscape:zoom="0.22507243"
+     inkscape:cx="2060.0139"
+     inkscape:cy="1266.398"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-global="true"
@@ -16630,8 +16630,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="title"
-     sodipodi:insensitive="true">
+     inkscape:label="title">
     <text
        xml:space="preserve"
        id="text882"
@@ -16645,7 +16644,7 @@
          x="20"
          y="82.167152"><tspan
            style="fill:#2da82d;fill-opacity:1">via Symbolic Analysis</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.1213px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"> (CoLeSIAw)</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.1213px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"> (CoLeSIAw) *</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text902"
@@ -16654,7 +16653,7 @@
        xml:space="preserve"
        id="text910"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.05px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect912);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="matrix(1.1363796,0,0,1,-0.661966,-8.7598266)"><tspan
+       transform="matrix(1.1363796,0,0,1,-2.4530544,-11.182671)"><tspan
          x="20"
          y="136.77666"><tspan
            style="shape-inside:url(#rect912)">Ali Younes</tspan><tspan
@@ -16674,17 +16673,16 @@
     <text
        xml:space="preserve"
        id="text968"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect970);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(3.8858282,-3.1833798)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect970);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(2.2373065,-6.3946104)"><tspan
          x="20"
-         y="160.02497"><tspan
-           style="font-size:65%;baseline-shift:super;fill:#000000">1</tspan><tspan
-           style="fill:#000000"> Laboratoire d’informatique de École polytechnique (LIX), École Polytechnique
+         y="157.52799"><tspan>1 Laboratoire d’informatique de École polytechnique (LIX), École Polytechnique
 </tspan></tspan><tspan
          x="20"
-         y="181.1916"><tspan
-           style="font-size:65%;baseline-shift:super;fill:#000000">2</tspan><tspan
-           style="fill:#000000"> Computer Science and Systems Engineering Laboratory (U2IS), ENSTA PariTech</tspan></tspan></text>
+         y="175.16686"><tspan>2 Computer Science and Systems Engineering Laboratory (U2IS), ENSTA PariTech
+</tspan></tspan><tspan
+         x="20"
+         y="192.80573"><tspan>* A Ph.D. project funded by DigiCosme (IID and SciLex axes) 2020-2023</tspan></tspan></text>
     <image
        width="84.261017"
        height="141.32753"
@@ -16708,7 +16706,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Content"
-     style="filter:url(#filter14784)">
+     style="filter:url(#filter14784)"
+     sodipodi:insensitive="true">
     <g
        id="g6574"
        inkscape:label="Models"
@@ -18480,15 +18479,15 @@
     <text
        xml:space="preserve"
        id="text15399"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect15401);" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15401);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
        xml:space="preserve"
        id="text4557"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect4559);" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4559);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
        xml:space="preserve"
        id="text4563"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect4565);" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4565);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
        xml:space="preserve"
        id="text4569"
@@ -21427,7 +21426,7 @@
     <text
        xml:space="preserve"
        id="text8220"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect8222);" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect8222);fill:#000000;fill-opacity:1;stroke:none;" />
     <g
        id="g8252"
        inkscape:label="Extended"
